@@ -1,0 +1,118 @@
+
+ .text{-fx-background-image: url(nen3.jpg)}
+.update{
+
+	-fx-background-color: #00cc2c;
+    -fx-font: bold italic 11.0pt "Times new roman";
+    -fx-background-radius:20;
+   
+}
+.txUsername{
+	
+	/*-fx-background-color: #ff6289;*/
+    -fx-font: bold italic 11.0pt "Times new roman";
+     -fx-background-radius:20;
+     -fx-border-width :40;
+}
+
+
+.pw{
+	/*-fx-background-color: #ff6289;*/
+    -fx-font: bold italic 11.0pt "Times new roman";
+     -fx-background-radius:20;
+     -fx-border-width :40;
+}
+
+.back{
+	-fx-text-fill:#f8f8f8;
+	-fx-background-color: #ff6289;
+    -fx-font: bold italic 11.0pt "Times new roman";
+     -fx-background-radius:20;
+     -fx-border-width :40;
+}
+.clear{
+	-fx-text-fill:#f8f8f8;
+	-fx-background-color: #3dd3e9;
+    -fx-font: bold italic 11.0pt "Times new roman";
+     -fx-background-radius:20;
+     -fx-border-width :40;
+}
+
+.agree{
+	-fx-text-fill:#f8f8f8;
+	-fx-background-color: #3dd3e9;
+    -fx-font: bold italic 11.0pt "Times new roman";
+     -fx-background-radius:20;
+     -fx-border-width :40;
+}
+.login{
+	-fx-text-fill:#f8f8f8;
+	-fx-background-color: #33cc99;
+    -fx-font: bold italic 11.0pt "Times new roman";
+     -fx-background-radius:20;
+     -fx-border-width :40;
+}
+.fogot{
+	-fx-text-fill:#f8f8f8;
+	-fx-background-color: #f9424b;
+    -fx-font: bold italic 11.0pt "Times new roman";
+     -fx-background-radius:20;
+     -fx-border-width :40;
+}
+
+
+.search{
+	-fx-text-fill :#f36b2c;
+	-fx-background-color:#f4a8a7;
+	-fx-font: bold italic 11.0pt "Times new roman";
+	 -fx-background-radius:20;
+     -fx-border-width :40;
+	}
+	
+.profile{
+	-fx-text-fill :#060606;
+	-fx-background-color:#04ecf0;
+	-fx-font: bold italic 11.0pt "Times new roman";
+	 -fx-background-radius:20;
+     -fx-border-width :40;
+	}
+.MakeLoan{
+	-fx-text-fill :#060606;
+	-fx-background-color:#9cd0b3;
+	-fx-font: bold italic 11.0pt "Times new roman";
+	 -fx-background-radius:20;
+     -fx-border-width :40;
+	}	
+.Logout{
+	-fx-text-fill :#060606;
+	-fx-background-color:#fa8072;
+	-fx-font: bold italic 11.0pt "Times new roman";
+	 -fx-background-radius:20;
+     -fx-border-width :40;
+	}	
+.g{
+	-fx-background-color:#e6e6fa;
+   
+}
+.g2{
+	-fx-background-color:#e6e6fa;}
+	
+.grid{
+	-fx-background-color:#e6e6fa;
+   
+}
+.hb{
+	-fx-text-fill :#f8f6f7;
+	-fx-background-color:#ddded9;
+   
+}
+.mb{
+	
+	-fx-background-color:#dedcdc;
+   
+}
+#fancytext {
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, aqua 0%, red 50%);
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
